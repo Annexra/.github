@@ -1,39 +1,33 @@
-<div align="center">
-  <a href="https://annexra.in">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://workspace.anx.in/logo-dark.png">
-      <img src="https://workspace.anx.in/logo.png" alt="Annexra" width="220">
-    </picture>
-  </a>
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://workspace.annexra.in/logo-dark.png">
+    <img src="https://workspace.annexra.in/logo.png" alt="Annexra" width="220">
+  </picture>
+</p>
 
-<br>
+<h3 align="center">Websites, apps and software, built properly.</h3>
 
-We build websites, apps and software that help businesses run better, from a simple portfolio site to complex enterprise platforms.
+<p align="center">
+  <a href="https://annexra.in">annexra.in</a> · <a href="mailto:contact@annexra.in">contact@annexra.in</a>
+</p>
 
-## What we do
+---
 
-**Web development**
-Websites and portfolios for businesses and individuals, fast, clean and easy to manage.
+## What we build
 
-**Software development**
-Custom software built around your business logic, from backend systems to complex enterprise platforms.
+- Websites and landing pages
+- Web and mobile apps
+- LMS and ERP systems
+- E-commerce platforms
+- Health portals
+- Internal workspaces and business systems
+- Software solutions for any kind of business
+- Video editing and creative work, and more
 
-**Web and mobile apps**
-Apps designed around how your team and your customers actually work.
+## We are hiring
 
-**Automation**
-CRM workflows, WhatsApp bots and business automations that remove repetitive work.
+Want to build with us? See open roles at [annexra.in/careers](https://annexra.in/careers).
 
-**Cloud and AI solutions**
-Cloud setups and AI features that fit into your business, not bolted on.
+## Say hello
 
-**UI and UX**
-Interfaces that are clear, polished and pleasant to use.
-
-**SEO, AEO and content**
-Be found on search engines and in AI answers, with content that supports it.
-
-## Want to join Annexra?
-
-See open roles at **[annexra.in/careers](https://annexra.in/careers)**.
+Have something in mind? Write to us at [contact@annexra.in](mailto:contact@annexra.in) and tell us what you want to build.
