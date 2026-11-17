@@ -1,6 +1,9 @@
-<a href="https://annexra.in">
-  <img src="https://annexra.in/opengraph-image.png" alt="Annexra" width="100%" />
-</a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://workspace.annexra.in/logo-dark.png">
+    <img src="https://workspace.annexra.in/logo.png" alt="Annexra" width="220">
+  </picture>
+</p>
 
 # Annexra
 
